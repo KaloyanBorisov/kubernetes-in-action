@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: employee
+  cloud:
+    kubernetes:
+      secrets:
+        enableApi: true
+      client:
+        masterUrl: 192.168.99.113:8443
+        trustCerts: true

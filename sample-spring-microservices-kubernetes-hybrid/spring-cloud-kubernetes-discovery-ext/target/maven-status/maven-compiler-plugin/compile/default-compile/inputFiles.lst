@@ -1,0 +1,7 @@
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesAutoServiceRegistrationListener.java
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesServiceRegistryAutoConfiguration.java
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesServiceRegistry.java
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesAutoServiceRegistrationAutoConfiguration.java
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesRegistrationProperties.java
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesAutoServiceRegistration.java
+D:\kubernetes-in-action\sample-spring-microservices-kubernetes-hybrid\spring-cloud-kubernetes-discovery-ext\src\main\java\org\springframework\cloud\kubernetes\discovery\ext\KubernetesRegistration.java

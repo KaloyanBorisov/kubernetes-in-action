@@ -1,0 +1,7 @@
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesRegistrationProperties.class
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesAutoServiceRegistrationAutoConfiguration.class
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesRegistration.class
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesAutoServiceRegistration.class
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesServiceRegistryAutoConfiguration.class
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesAutoServiceRegistrationListener.class
+org\springframework\cloud\kubernetes\discovery\ext\KubernetesServiceRegistry.class

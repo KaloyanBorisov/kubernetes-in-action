@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68fb896c-665b-48f4-916c-b2e68d46ce68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sample-spring-microservices-kubernetes-hybrid/department-service/src/main/java/pl/piomin/services/department/controller/DepartmentController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gI8m7E3KLYaZX5DAQvvia9LO9Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/department-service" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="google.kubernetes.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kubernetes-in-action\sample-spring-microservices-new-kubernetes\department-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cloud Code: Cloud Run.department-service">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="department-service" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudRunDevelopConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;department-service/Dockerfile&quot;}}">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="buildpacksEnv" />
+      <option name="cloudSqlConnections">
+        <list />
+      </option>
+      <option name="cpuAllocated" value="NO_LIMIT" />
+      <option name="dockerBuildArgs" />
+      <option name="dockerTarget" value="" />
+      <option name="environmentVariables" />
+      <option name="loadingAvailableBuilders" value="false" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="memoryAllocated" value="MIB_256" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="serviceAccount" value="" />
+      <option name="serviceName" value="sample-spring-microservices-new-kubernetes" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="department-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.piomin.services.department.DepartmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="employee-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.piomin.services.employee.EmployeeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.piomin.services.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganizationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="organization-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.piomin.services.organization.OrganizationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="organization-service/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="organization-service/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cloud Code: Cloud Run.department-service" />
+      <item itemvalue="Docker.organization-service/Dockerfile" />
+      <item itemvalue="Spring Boot.DepartmentApplication" />
+      <item itemvalue="Spring Boot.EmployeeApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.OrganizationApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.organization-service/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68fb896c-665b-48f4-916c-b2e68d46ce68" name="Default Changelist" comment="" />
+      <created>1597790903728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597790903728</updated>
+      <workItem from="1597790905016" duration="1297000" />
+      <workItem from="1597792238559" duration="206000" />
+      <workItem from="1597793506408" duration="747000" />
+      <workItem from="1597794287276" duration="5963000" />
+      <workItem from="1597808995788" duration="4617000" />
+      <workItem from="1597874458964" duration="1860000" />
+      <workItem from="1597876588914" duration="3067000" />
+      <workItem from="1598134754363" duration="8000" />
+      <workItem from="1598136075821" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="160" key="#Plugins" timestamp="1597874479943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1597874479943" />
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597875591256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597875591256" />
+    <state x="719" y="216" key="FileChooserDialogImpl" timestamp="1597875258857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597875258857" />
+    <state width="1876" height="416" key="GridCell.Tab.0.bottom" timestamp="1597876318966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="416" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597876318966" />
+    <state width="1876" height="416" key="GridCell.Tab.0.center" timestamp="1597876318965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="416" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597876318965" />
+    <state width="1876" height="416" key="GridCell.Tab.0.left" timestamp="1597876318965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="416" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597876318965" />
+    <state width="1876" height="416" key="GridCell.Tab.0.right" timestamp="1597876318966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="416" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597876318966" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1597875338754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597875338754" />
+  </component>
+</project>

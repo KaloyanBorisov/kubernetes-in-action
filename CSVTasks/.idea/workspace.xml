@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="662d769b-c21c-4382-9ca7-49c1414256b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog/deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog/service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog/src/main/java/com/example/dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog/src/main/java/com/example/dog/DogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dog/src/main/java/com/example/dog/DogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-spring-microservices-kubernetes-hybrid/department-service/src/main/java/pl/piomin/services/department/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-spring-microservices-kubernetes-hybrid/gateway-service/skaffold.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-spring-microservices-kubernetes-hybrid/kubernetes/setup commands.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Streams/StreamAnalysis.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_crack-node-287504_us-east1-d_jenkins-cd" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1hKnbRoOJEvEDEN4DMYyIOXdMtJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Streams" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6068966" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kubernetes-in-action\CSVTasks\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kubernetes-in-action\CSVTasks\src\main\java\Streams" />
+      <recent name="D:\kubernetes-in-action\CSVTasks\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tasks">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.StreamAnalysis" />
+      <module name="CSVTasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks" />
+      <module name="CSVTasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="CSVTasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJava8.givenCSVFile_whenRead_thenContentsAsExpected" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSVTasks" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestJava8" />
+      <option name="METHOD_NAME" value="givenCSVFile_whenRead_thenContentsAsExpected" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[Local] Test.main" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" />
+      <option name="regionId" value="us-east-2" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="Test::main" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" value="java8" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" />
+        <option name="additionalLocalArgs" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tasks" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="AWS Lambda.[Local] Test.main" />
+        <item itemvalue="Application.StreamAnalysis" />
+        <item itemvalue="JUnit.TestJava8.givenCSVFile_whenRead_thenContentsAsExpected" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="662d769b-c21c-4382-9ca7-49c1414256b5" name="Default Changelist" comment="" />
+      <created>1599768722742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599768722742</updated>
+      <workItem from="1599768724052" duration="12150000" />
+      <workItem from="1599780914932" duration="5511000" />
+      <workItem from="1599786460223" duration="621000" />
+      <workItem from="1599787106222" duration="2959000" />
+      <workItem from="1599790388132" duration="806000" />
+      <workItem from="1599855324544" duration="759000" />
+      <workItem from="1599945376271" duration="6397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="384" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599945423251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="384" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1599945423251" />
+    <state width="1876" height="333" key="GridCell.Tab.0.bottom" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.0.center" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.0.left" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.0.right" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.1.bottom" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.1.center" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.1.left" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state width="1876" height="333" key="GridCell.Tab.1.right" timestamp="1600024619215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600024619215" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1599781128571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599781128571" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1599771304675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599771304675" />
+    <state x="506" y="255" width="908" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599775185316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="506" y="255" width="908" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1599775185316" />
+    <state width="459" height="139" key="javadoc.popup.new" timestamp="1600024075170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="459" height="139" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1600024075170" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1599782445561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599782445561" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599776342867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599776342867" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

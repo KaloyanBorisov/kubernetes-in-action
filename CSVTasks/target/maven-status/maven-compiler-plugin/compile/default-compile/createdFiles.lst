@@ -1,0 +1,4 @@
+Tasks.class
+models\AverageSalary.class
+models\Entity.class
+Streams\StreamAnalysis.class

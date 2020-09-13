@@ -1,0 +1,13 @@
+#k8s roles setup
+$ kubectl create clusterrolebinding admin --clusterrole=cluster-admin --serviceaccount=default:default
+
+#mongodb setup
+mongo --port 27017
+use admin
+db.createUser(
+  {
+    user: "Piot_123",
+    pwd: "piotr",
+    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
+  }
+)

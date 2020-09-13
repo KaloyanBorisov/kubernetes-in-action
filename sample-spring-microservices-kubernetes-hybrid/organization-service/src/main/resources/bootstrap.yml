@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: organization
+  cloud:
+    kubernetes:
+      secrets:
+        enableApi: true
+  data:
+    mongodb:
+      database: "admin"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Sagan" value="PREVIEW" />
+        <entry key="D:/Sagan/sagan-client" value="PREVIEW" />
+        <entry key="D:/Spring in action 5 samples/ch9-Iintegration-Samples" value="PREVIEW" />
+        <entry key="D:/Spring in action 5 samples/ch9-Integration-Samples/spring-integration-aws" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>
